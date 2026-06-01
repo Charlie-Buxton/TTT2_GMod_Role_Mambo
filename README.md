@@ -2,7 +2,7 @@
 
 A custom social-deduction game role for **TTT2**, built in Lua for [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/).
 
-Mambo is a public investigator who can temporarily call a dead player back as a spirit. The spirit cannot walk, speak, or use normal weapons. Instead, the Mambo has a short window to ask questions while the spirit answers with audible `Yes` and `No` sounds.
+Mambo is a detective role who can temporarily call a dead player back as a spirit. The spirit cannot walk, speak, or use normal weapons. Instead, the Mambo has a short window to ask questions while the spirit answers with audible `Yes` and `No` sounds.
 
 [TTT2](https://github.com/TTT-2/TTT2) expands TTT with a framework for custom roles, equipment, settings, and win conditions. This repository adds one of those roles.
 
