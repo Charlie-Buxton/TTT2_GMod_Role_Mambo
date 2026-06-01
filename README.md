@@ -1,10 +1,10 @@
-# Mambo Role for Trouble in Terrorist Town 2
+# Mambo Role for TTT2
 
 A custom social-deduction game role for TTT2, built in Lua for Garry's Mod.
 
 Mambo is a public investigator who can temporarily call a dead player back as a spirit. The spirit cannot walk, speak, or use normal weapons. Instead, the Mambo has a short window to ask questions while the spirit answers with audible `Yes` and `No` sounds.
 
-Trouble in Terrorist Town (TTT) is a multiplayer social-deduction mode: most players are Innocents, a smaller group are secretly Traitors, and the players must work out who can be trusted before one side is eliminated. TTT2 expands the mode with a framework for custom roles, equipment, settings, and win conditions. This repository adds one of those roles.
+[TTT2](https://github.com/TTT-2/TTT2) expands TTT with a framework for custom roles, equipment, settings, and win conditions. This repository adds one of those roles.
 
 ## What Mambo Does
 
